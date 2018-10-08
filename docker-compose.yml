@@ -1,0 +1,9 @@
+version: '3.3'
+
+services:
+  qtnminert:
+    image: qtnminert
+    container_name: qtnminert
+    ports:
+      - "11235:11235"
+
