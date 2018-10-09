@@ -5,9 +5,11 @@
     docker-compose up
     [STOP IT AFTER IT RUNS]
 
-Then go and edit config/pool.txt to match your pool info (wallet/pooladdress)
-Start the docker again...
+Then go and edit config/pool.txt to match your pool info (wallet/pooladdress).
 
+Rebuild the docker (via docker build -t qtnminert .)
+
+and restart
 
 
 
