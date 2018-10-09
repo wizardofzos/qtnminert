@@ -13,7 +13,7 @@
 
 "pool_list" :
 [
-	{"pool_address" : "miningpool.qryptonite.io:3333", "wallet_address" : "aq34qX5Ygw5aQqVbkXVFAHgJNDf1cW5EWU5Ce3rccYQEDAmZos6pFnaXzYE8xyvpwDBz5E7XcP1Gtj5fDngg8iig28Cg7FKGD", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "miningpool.qryptonite.io:3333", "wallet_address" : "aq34qX5Ygw5aQqVbkXVFAHgJNDf1cW5EWU5Ce3rccYQEDAmZos6pFnaXzYE8xyvpwDBz5E7XcP1Gtj5fDngg8iig28Cg7FKGD", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
